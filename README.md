@@ -3,7 +3,7 @@
 
 Este programa está sendo desenvolvido sem fins lucrativos. Aqueles que estão contribuindo no projeto estão proibidos de vender o programa sem antes falar com a equipe de desenvolvimento. Caso o programa chegue a trazer lucro, os primeiros valores serão usados para alugar um servidor para hospedagem de arquivos e o restante que sobrar será divido com a equipe que ajudou no projeto. 
 
-### Tecnlogias cobradas para desenvolvimento:
+### Tecnologias cobradas para desenvolvimento:
 * Node-JS
 * Editor de código ou outra IDE
 
