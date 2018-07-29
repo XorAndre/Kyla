@@ -11,8 +11,8 @@ Este programa está sendo desenvolvido sem fins lucrativos. Aqueles que estão c
 E necessário saber HTML, JavaScript e CSS
 
 ### Regras:
-1- Não vender o projeto sem avisar os demais membros da equipe
-2- Respeitar todos os participantes 
-3- Caso saia do projeto por favor avise sua saída
-4- Assim que definido o visual não altere nada sem antes notificar a equipe e a mesma avaliar a alteração. 
+1. Não vender o projeto sem avisar os demais membros da equipe
+2. Respeitar todos os participantes 
+3. Caso saia do projeto por favor avise sua saída
+4. Assim que definido o visual não altere nada sem antes notificar a equipe e a mesma avaliar a alteração. 
  
